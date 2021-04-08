@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "187964867442",
+    "project_id": "berlin-5acea",
+    "storage_bucket": "berlin-5acea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187964867442:android:711706199a6930c0bdd3eb",
+        "android_client_info": {
+          "package_name": "com.example.berlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187964867442-ckmv1mlf58d4fb89pd9vobqppjkhm8r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPntmBlFo7Mw0Vc7pkjQF6zajt3sXDohA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187964867442-ckmv1mlf58d4fb89pd9vobqppjkhm8r5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187964867442-ks8fl7o2l75kuh15bcoplv9oisu1pgov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.berlin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
